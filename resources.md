@@ -19,3 +19,8 @@
 ## Herramientas para alojar tu sitio web
 - [GitHub Pages, alojamiento de sitios web estáticos de manera gratuita](https://pages.github.com/)
 - [Vercel, plataforma para desplegar aplicaciones frontend](https://vercel.com/)
+
+## Vídeos sobre desarrollo web
+- [freeCodeCamp, cómo crear una página web desde cero](https://www.youtube.com/watch?v=mU6anWqZJcc)
+- [freeCodeCamp (YouTube), cursos completos de HTML, CSS, JavaScript y desarrollo web](https://www.youtube.com/freecodecamp)
+- [Traversy Media (YouTube), canal enfocado en desarrollo frontend y backend.](https://www.youtube.com/TraversyMedia)
